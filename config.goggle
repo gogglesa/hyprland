@@ -17,4 +17,4 @@ $boost,site=www.tonybtw.com
 /r/hyprland/$boost=2,site=reddit.com
 
 !GitHub
-/hyprwm/hyprland/$boost,site=github.com
+/hyprwm/hyprland/$boost=2,site=github.com
