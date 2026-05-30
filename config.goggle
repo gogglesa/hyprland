@@ -7,5 +7,14 @@
 ! generated: 2026-05-30 03:02:0+00:00
 
 $discard
-$boost,site=hypr.land
-$boost,site=wiki.hypr.land
+
+! Domains
+$boost=2,site=hypr.land
+$boost=3,site=wiki.hypr.land
+$boost,site=www.tonybtw.com
+
+! Reddit
+/r/hyprland/$boost=2,site=reddit.com
+
+!GitHub
+/hyprwm/hyprland/$boost,site=github.com
