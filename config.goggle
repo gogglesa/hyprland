@@ -11,10 +11,10 @@ $discard
 ! Domains
 $boost=3,site=hypr.land
 $boost=3,site=wiki.hypr.land
-$boost=3,site=www.tonybtw.com
+$boost=2,site=www.tonybtw.com
 
 ! Reddit
-/r/hyprland/$boost=3,site=reddit.com
+/r/hyprland/$boost=2,site=reddit.com
 
 !GitHub
-/hyprwm/hyprland/$boost=5,site=github.com
+/hyprwm/hyprland/$boost=8,site=github.com
