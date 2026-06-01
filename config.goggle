@@ -1,4 +1,4 @@
-! name: Hyprland
+! name: HyprlandSA
 ! description: Prioritizes popular Hyprland domains
 ! public: true
 ! author: Behrang Saeedzadeh
@@ -9,12 +9,12 @@
 $discard
 
 ! Domains
-$boost=2,site=hypr.land
+$boost=3,site=hypr.land
 $boost=3,site=wiki.hypr.land
-$boost,site=www.tonybtw.com
+$boost=3,site=www.tonybtw.com
 
 ! Reddit
-/r/hyprland/$boost=2,site=reddit.com
+/r/hyprland/$boost=3,site=reddit.com
 
 !GitHub
-/hyprwm/hyprland/$boost=2,site=github.com
+/hyprwm/hyprland/$boost=5,site=github.com
