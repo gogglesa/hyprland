@@ -4,7 +4,7 @@
 ! author: Behrang Saeedzadeh
 ! avatar: #01b47b
 ! homepage: https://github.com/gogglesa/hyprland
-! generated: 2026-05-30 03:02:0+00:00
+! generated: 2026-06-02 00:33:0+00:00
 
 $discard
 
@@ -18,3 +18,4 @@ $boost=2,site=www.tonybtw.com
 
 !GitHub
 /hyprwm/hyprland/$boost=8,site=github.com
+/hyprwm/Hyprland/$boost=8,site=raw.githubusercontent.com
