@@ -1,0 +1,11 @@
+! name: HyprlandSA - Test
+! description: Prioritizes popular Hyprland domains
+! public: true
+! author: Behrang Saeedzadeh
+! avatar: #01b47b
+! homepage: https://github.com/gogglesa/hyprland
+! generated: 2026-06-02 00:33:0+00:00
+
+!GitHub
+/hyprwm/hyprland/$boost=3,site=github.com
+/hyprwm/Hyprland/$boost=3,site=raw.githubusercontent.com
